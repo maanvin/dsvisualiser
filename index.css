@@ -75,3 +75,8 @@ body
   font-size:100px;
   color: #02cde0;
 }
+button
+{
+  background-color: #02cde0;
+  border-radius:10px;
+}
